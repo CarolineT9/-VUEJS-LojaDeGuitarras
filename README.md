@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+### Sobre
+- Esse projeto foi desenvolvido durante o curso -> Aprende Vue.js creando Proyectos Reales aprende MEVN Pinia Composition Vue Router SFC Vuetify Firebase Composables APIs.
+- Projeto desenvolvido com Vue 3;
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Objetivo: 
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+- Desenvolver um site de compras de Guitarras;
+- Desenvolver em Vue com Composition API;
+- Aprender uso props e emitir eventos entre componentes;
+- Desenvolver funções de adicionar, deletar, diminuir e aumentar produtos no carrinho de compras;
+- Ter o carrinho de compras persistente (deixar em localstorage);
+
+### Componentes
+- Header
+- Guitarra
+- Footer
+
+### Vizualizar projeto
+
+https://lively-cuchufli-44a5a7.netlify.app/
+
